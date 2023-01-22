@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color:darkolivegreen;
+}
+.name{
+    font-size: 30px;
+    float: inline-start;
+}
+.myself{
+    font-size: 20px;
+    justify-content: center;
+    font-variant: small-caps;
+}
+.mypic{
+    float: center;
+    margin: 3%;
+}
+.fave2{
+    float: center;
+    margin: 3%;
+}
+.add-info{
+    margin: 3%;
+}
+h1{
+    font-size: 30px;
+    float: inline-start;
+}
